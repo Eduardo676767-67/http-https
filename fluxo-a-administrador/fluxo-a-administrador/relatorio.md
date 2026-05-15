@@ -53,10 +53,11 @@
 **Cabeçalhos do request:**
 
 | Cabeçalho | Função |
+|---|---|
 |[GET] |[https://example.com/ HTTP/1.1]|
 | [Host:  ]| [example.com] |
 | [Connection: ] | [keep-alive] |
-| [Pragma:  ]| [no-cache] |
+
 
 **Resposta:**
 
