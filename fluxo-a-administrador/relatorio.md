@@ -18,17 +18,17 @@
 
 | Campo | Valor |
 |---|---|
-| Nome | [seu nome completo] |
-| RA | [seu RA] |
+| Nome | [Eduardo Santos Nascimento] |
+| RA | [241590] |
 | Disciplina | Redes de Computadores |
-| Turma | [sua turma] |
-| Data | [data da realização] |
+| Turma | [A] |
+| Data | [15/05/2026] |
 | Fluxo | **A — Aluno com privilégio de administrador** |
 | SO utilizado | [Windows 10 / Windows 11] |
 | Ferramenta de proxy | Fiddler Classic |
 | Navegador(es) | [Chrome / Edge / Firefox / ...] |
-| Decriptação HTTPS habilitada? | [sim / não] |
-| Certificado Fiddler instalado durante a atividade? | [sim / não] |
+| Decriptação HTTPS habilitada? | [sim] |
+| Certificado Fiddler instalado durante a atividade? | [sim] |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### Captura
 
-<!-- arraste a captura aqui: sessão de http://example.com com Request/Response Raw -->
+![image](atv1.PNG)
 
 **Request-line:**
 
